@@ -1,0 +1,5 @@
+On execution of charType, all this memory stuff is printed out and I'm not sure what all that stuff
+is, but the program works the way it's supposed to and valgrind reports no memory leaks so I'm 
+pretty sure that it's ok. Just do "cat out" after all the weird memory statements are printed out
+and the correct output is there. Other than that, everything works the way it's supposed to 
+including the makefile and valgrind. Thank you! 

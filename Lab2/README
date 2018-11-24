@@ -1,0 +1,5 @@
+The FileCopy java file simply takes in a file and outputs an exact copy 
+of the file that was taken in. The FileTokens java file takes in a file and 
+prints out how many tokens there on each line and prints what the tokens are. 
+Lastly, the FileReverse java file takes in a file and reverses each token in thefile and prints each reversed token on its own line. The file Input is what was used to test these programs and the file Output contains the output of the 
+programs

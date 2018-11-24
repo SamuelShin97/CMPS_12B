@@ -1,0 +1,3 @@
+HW5 contains Bard.java and works the way it should by taking in a file called input.txt and outputs an analysis of the file shakespeare.txt to a
+file called analysis.txt. There shouldn't be any problems with the Makefile or the actual assignem program itself and the grading script seems to
+work. Happy grading and thanks for an awesome quarter!

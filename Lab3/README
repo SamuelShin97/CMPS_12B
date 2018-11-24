@@ -1,0 +1,16 @@
+
+standardInput.c 
+For me when the program runs, it's waiting for the user to input stuff before
+it actually prompts the user to do what it wants. I'm not sure why this is 
+because I copied and pasted the program straight from the lab. It works properly
+when you input the right things but it prints everything after an argument is read in.
+
+hello.c, CommandLineArguments.c, FileIO.c, and FileReverse.c all work properly it's just 
+the minor bug in standardInput.c that's not working perfectly. Again I'm not sure why it 
+doesn't prompt the user before it takes in the arguments.
+
+FileIO.c
+Takes in the file "input.txt" and is outputted to file "output"
+
+FileReverse.c
+Takes in the file "in" and is outputted to file "out"

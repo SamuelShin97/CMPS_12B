@@ -1,0 +1,8 @@
+inserted 45
+inserted 42
+inserted 21
+45 -> 42 -> 21
+20 not present
+21 present
+deleted 42
+45 -> 21
